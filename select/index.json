@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "桜坂",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2025-12-02T19:33:41.896343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/01_桜坂_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/02_桜坂_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/03_桜坂_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "Gibson, Debbie",
+      "has_synced": false,
+      "path": "select/04_桜坂_Gibson,_Debbie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "ジェロ",
+      "has_synced": true,
+      "path": "select/05_桜坂_ジェロ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "柴咲コウ",
+      "has_synced": false,
+      "path": "select/06_桜坂_柴咲コウ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/07_桜坂_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "桜坂 (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": false,
+      "path": "select/08_桜坂_(2012_Remaster)_槇原敬之.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/09_桜坂_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": true,
+      "path": "select/10_桜坂_福山_雅治.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "福山雅治",
+      "has_synced": false,
+      "path": "select/11_桜坂_福山雅治.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "桜坂",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/12_桜坂_平原綾香.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_02_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_03_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_04_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_05_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_06_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_07_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_08_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_09_桜坂_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "桜坂",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_10_桜坂_福山_雅治.txt"
+    }
+  ]
+}
